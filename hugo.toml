@@ -95,7 +95,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Nianhbg.eu"
+        logoText = "blog.nianhbg.se"
         logoHomeLink = "/"
 
       [languages.en.menu]

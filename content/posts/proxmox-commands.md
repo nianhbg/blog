@@ -1,7 +1,6 @@
 +++
 title = 'Proxmox Commands'
 date = 2026-04-23T12:15:40+02:00
-category = [homelab, proxmox]
 draft = true
 +++
 # Proxmox commands
@@ -9,4 +8,7 @@ draft = true
 ## LCX Containers
 
 Reboot: ``pct reboot <vmid>``
+Stop: ``pct stop <vmid>``
+Start: ``pct start <vmid>``
+List LXC: ``pct list``
 

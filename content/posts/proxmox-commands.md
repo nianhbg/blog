@@ -1,7 +1,8 @@
 +++
 title = 'Proxmox Commands'
 date = 2026-04-23T12:15:40+02:00
-draft = true
+tags: ["Selfhosting","Proxmox"]
+draft = false
 +++
 # Proxmox commands
 
